@@ -6,9 +6,12 @@ layout: default
   {% if page.subtitle == "" or page.subtitle == nil %}
   	<h3>{{ page.title }}</h3>
   {% else %}
-    <div class="title-subtitle">
+    <div class="title-subtitle" style="text-align: center;">
       <h3>{{ page.title }}</h3>
-      <h5>{{ page.subtitle }}</h5>
+      <h7>{{ page.subtitle }}</h7>
+      <br>
+      <a href="{{ page.github_url }}"> Github Repository</a>
+      <hr class="solid">
     </div>
   {% endif %}
 

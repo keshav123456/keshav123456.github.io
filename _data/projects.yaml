@@ -1,54 +1,29 @@
 projects:
-  - title: "Detecting Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+
+  - title: "The need for Context in Google's AI overviews"
+    subtitle: "Google's AI overviews mix information from multiple sources, sources that differ greatly in their integrity"
+    thumbnail: "assets/projects/ai_overview.png"
+    url: "projects/ai_overviews.html"
+    github_url: "https://github.com/keshav123456/Analysing-Google-AI-Overviews"
     selected: y
 
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+  - title: "A rubber duck AI for writing"
+    subtitle: "Rather than prompting an AI to write, is having an AI constantly ask questions at the side a better UI for writing?"
+    thumbnail: "assets/projects/rubber_duck.jpg"
+    url: "projects/rubber_duck_writing.html"
+    github_url: "https://github.com/keshav123456/dynamicAIEditor"
     selected: y
 
-  - title: "Responsive Communities"
-    subtitle: "Pilot project in Jun, Spain"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+  - title: "Misinformation and Chrome Extensions"
+    subtitle: "Designing a chrome extension to automatically provide greater context with alternative sources of the same news"
+    thumbnail: "assets/projects/mis.jpg"
+    url: "projects/Misinformation.html"
+    github_url: "https://github.com/keshav123456/perspectives"
     selected: y
 
-  - title: "Cold-Start Recommendations"
-    subtitle: "Learning Local Collective Embeddings"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
-    url: "projects/2014_item-cold-start.html"
-    selected: n
-
-  - title: "Semi-supervised Learning"
-    subtitle: "Iterative Hybrid Algorithm"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
-    url: "projects/2013_iterative-hybrid-algorithm.html"
-    selected: n
-
-  - title: "Twitter Sentiment Analysis"
-    subtitle: "Analyzing Financial Tweets"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
-    selected: n
-
-  - title: "Wordnet Construction"
-    subtitle: "Automatic Wordnet Construction using Language Models"
-    thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
-    url: "projects/2010_wordnet-contruction.html"
-    selected: n
-
-  - title: "Fingerprint Verification"
-    subtitle: "Image processing class project"
-    thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
-    url: "projects/2010_fingerprint-verification.html"
-    selected: n
-
-  - title: "Connect Four AI Agent"
-    subtitle: "Iterative deepening and alpha-beta pruning"
-    thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
-    url: "projects/2009_connect-four.html"
-    selected: n
+  # - title: ""How do LLMs handle evolving information?"
+  #   subtitle: "LLMs have a harder time linearly keeping track of updates to codebases, and ensuing compatabilities"
+  #   thumbnail: "assets/projects/mis.jpg"
+  #   url: "projects/Misinformation.html"
+  #   github_url: "https://github.com/keshav123456/perspectives"
+  #   selected: y
