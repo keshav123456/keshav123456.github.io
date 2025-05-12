@@ -39,11 +39,11 @@ This allows us to quickly compare what different news sites say about the *exact
 
 Following on, we can clearly see the difference between the BBC/Independent’s style of reporting, versus the Daily Mail/New york post - with the latter choosing to talk about the perpetrator’s origin, and the screaming, whereas the former have a more measured tone. 
 
-![Untitled](https://keshav123456.github.io/images/Misinformation,%20Perspectives%20and%20a%20Chrome%20extensio%202f2380de711747829f3c14a9a1a316a2/Untitled.png)
+![Untitled 1](../assets/projects/Untitled.png)
 
-![Untitled](https://keshav123456.github.io/images/Misinformation,%20Perspectives%20and%20a%20Chrome%20extensio%202f2380de711747829f3c14a9a1a316a2/Untitled%201.png)
+![Untitled 2](../assets/projects/Untitled1.png)
 
-![Untitled](https://keshav123456.github.io/images/Misinformation,%20Perspectives%20and%20a%20Chrome%20extensio%202f2380de711747829f3c14a9a1a316a2/Untitled%202.png)
+![Untitled 3](../assets/projects/Untitled2.png)
 
 **Can we learn anything from this?**
 
